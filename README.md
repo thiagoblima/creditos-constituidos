@@ -121,7 +121,7 @@ Retorna um crédito específico pelo seu número.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/creditos-constituidos.git
+   git clone https://github.com/thiagoblima/creditos-constituidos.git
    cd creditos-constituidos
    ```
 
